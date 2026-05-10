@@ -3,8 +3,8 @@
 A route optimization algorithm that reorders multi-stop rideshare 
 rides to minimize total travel distance and time.
 
-Built as part of a Computer Programming class project at NOVA SBE 
-(2nd Year Management, 2025), combining AI prompting, Python logic, 
+Built with inspiration on a Computer Programming class at NOVA SBE 
+(2nd Year Management, 2027), combining AI prompting, Python logic 
 and product innovation thinking.
 
 ## The Problem
